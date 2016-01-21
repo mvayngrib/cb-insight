@@ -22,11 +22,12 @@
   },
   "homepage": "https://github.com/jprichardson/cb-insight",
   "devDependencies": {
-    "cb-tester": "^0.1.11",
+    "cb-tester": "^0.2.28",
     "mocha": "^2.1.0",
     "nock": "^0.53.0"
   },
   "dependencies": {
+    "bitcoinjs-lib": "^1.5.0",
     "async": "^0.9.0",
     "decimal.js": "^4.0.1",
     "superagent": "^0.21.0"
